@@ -1,5 +1,5 @@
 const Coupon = require('../models/coupon');
-const Order = require('../models/Order');
+const Order = require('../models/order');
 const { validationResult } = require('express-validator');
 
 // ==================== ADMIN: CREATE COUPON ====================
